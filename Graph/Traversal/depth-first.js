@@ -1,4 +1,4 @@
-//Depth first using stack
+//Depth first traversal of graph using stack
 
 const depthFirst = (graph, source) => {
   const stack = [source]
