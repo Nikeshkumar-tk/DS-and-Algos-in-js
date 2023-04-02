@@ -12,4 +12,4 @@ const graph = {
   c:["e","f"]
 }
 
-console.log(hasPath(graph, "a", "c"))
+console.log(hasPath(graph, "a", "f"))
