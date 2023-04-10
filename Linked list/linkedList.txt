@@ -1,0 +1,3 @@
+****************************************************** Linked List *******************************************************************************
+
+Linked list is a linear data structure which consists of edges and nodes.
