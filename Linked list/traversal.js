@@ -26,5 +26,6 @@ function traverseLinkedList(head){
   }
 }
 
+//Calling traversal function by passing "a" as the head node.
 traverseLinkedList(a)
 
