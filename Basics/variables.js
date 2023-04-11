@@ -13,3 +13,11 @@ let name = "Javascript"
 name = "Typescript"
 console.log(name)
 
+
+//Variable declaration using var
+//We can reassign values to the variables declared in var
+
+var language = "javascript"
+language = "Typescript"
+console.log(language)
+
