@@ -1,4 +1,4 @@
-// **************************************************** Variables in javascript ****************************************************************
+// ***********************************************  Variables in javascript ****************************************************************
 
 //In programming variables are used for identifying memory locations
 //The way variables are declared and used depends up on the programming language that we are dealing with.
@@ -20,4 +20,13 @@ console.log(name)
 var language = "javascript"
 language = "Typescript"
 console.log(language)
+
+//Variable declaration using const
+//We cannot reassign values to the variables declared in const
+
+const framework = "react"
+// framework = "vue"
+//Uncommenting above line will create an error "Cannot redeclare block scopr variables"
+console.log(framework)
+
 
