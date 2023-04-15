@@ -25,11 +25,12 @@ function findSumItterative(head){
   return sum
 }
 
-
-//Recursive method
 const itterativeResult = findSumItterative(a)
 console.log("Result of iterative method = ", itterativeResult)
 
+
+
+//Recursive method
 function findSumRecursive(head){
   if(head === null) return 0
   return head.val + findSumRecursive(head.next)
