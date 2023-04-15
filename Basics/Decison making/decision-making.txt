@@ -1,0 +1,3 @@
+Decision making statements in javascript is quite similar to decision making in other languages
+These are the statements that alters the normal flow of execution of the code based on a give condition
+Decision making statements - if, if else, else if
