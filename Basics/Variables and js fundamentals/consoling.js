@@ -17,9 +17,9 @@ Syntax:
 const value = "javascript"
 console.log(value)
 
-/*We can also use the error method of console to print error to the console by highlighting them*/
+/* We can also use the error method of console to print error to the console by highlighting them */
 
 //Example:
 
-const error = "Something ent wrong"
+const error = "Something went wrong"
 console.error(error)
