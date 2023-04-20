@@ -8,6 +8,17 @@ Syntax :
               key2 : value2,
          }
 
+    - Objects are used to store data in key value pairs.
+    - The key is a string and the value can be any data type.
+    - The key and value are separated by a colon(:).
+    - The key value pairs are separated by a comma(,).
+    - The object is enclosed in curly braces({}).
+    - The object is assigned to a variable.
+    - The object is mutable.
+    - The object is iterable.
+    - The object is not a primitive data type.
+    - The object is a reference data type.Which means when we assign a object to a variable, the variable stores the reference of the object. 
+
 
 */
 
@@ -22,6 +33,7 @@ console.log(person);
 
 //Output : {name: "John", age: 30}
 
+
 /*                  Accessing the values of the object     
                     -----------------------------------
   
@@ -33,6 +45,7 @@ console.log(person);
 */
 
 //Example :
+
 const student = {
   name: "John",
   age: 30,
