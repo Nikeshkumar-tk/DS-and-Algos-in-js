@@ -19,8 +19,8 @@ var b=7;
 var c=2;
 
 a +=12        //  a = a + 12
-b +=9           //  b= b + 9
-c +=7             //   c = c + 7 
+b +=9         //  b= b + 9
+c +=7         //   c = c + 7 
 console.log(a)
 console.log(b)
 console.log(c)
@@ -39,8 +39,8 @@ var b=27;
 var c=22;
 
 a -=12        //  a = a - 12
-b -=9           //  b= b - 9
-c -=7             //   c = c - 7 
+b -=9         //  b= b - 9
+c -=7         //   c = c - 7 
 console.log(a)
 console.log(b)
 console.log(c)
@@ -60,8 +60,8 @@ var b=27;
 var c=22;
 
 a *=12        //  a = a * 12
-b *=9           //  b = b * 9
-c *=7             //   c = c * 7 
+b *=9         //  b = b * 9
+c *=7         //   c = c * 7 
 console.log(a)
 console.log(b)
 console.log(c)
@@ -79,8 +79,8 @@ var b=27;
 var c=22;
 
 a /=5        //  a = a / 12
-b /=3           //  b = b / 9
-c /=2             //   c = c / 7 
+b /=3        //  b = b / 9
+c /=2        //   c = c / 7 
 console.log(a)
 console.log(b)
 console.log(c)

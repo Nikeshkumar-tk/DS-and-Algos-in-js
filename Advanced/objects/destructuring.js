@@ -14,7 +14,8 @@
   | - It will copy the variables from the object to the variable.So that we can use them even if they are removed from object later.  |
   |                                                                                                                                   |
   -------------------------------------------------------------------------------------------------------------------------------------
-*/
+
+  */
 
 //Example :
 
